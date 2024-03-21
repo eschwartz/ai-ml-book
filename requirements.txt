@@ -2,3 +2,4 @@ tensorflow
 tensorflow-cpu
 pillow
 scipy
+bs4
